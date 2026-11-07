@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Долговая книжка">
+  <rect width="512" height="512" rx="112" fill="#0f172a" />
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="128" y="112" width="256" height="288" rx="32" stroke="#ffffff" stroke-width="28" />
+    <path d="M192 112v288" stroke="#38bdf8" stroke-width="26" />
+    <path d="M240 196h96M240 256h96M240 316h64" stroke="#ffffff" stroke-width="24" opacity="0.92" />
+  </g>
+</svg>
