@@ -1,5 +1,7 @@
 # Долговая книжка 📒
 
+[![Deploy to GitHub Pages](https://github.com/tsivx/debty/actions/workflows/deploy.yml/badge.svg)](https://github.com/tsivx/debty/actions/workflows/deploy.yml)
+
 Mobile-first PWA для учёта долгов: «я должен» и «мне должны», платежи частями, прогресс-бары, сроки с подсветкой и история платежей.
 
 **Демо:** https://tsivx.github.io/debty/
