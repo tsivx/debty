@@ -52,7 +52,7 @@ export function Filters({
           onValueChange={(value) => onFilter(value as FilterKey)}
           className="min-w-0 w-full flex-1"
         >
-          <TabsList className="h-auto min-h-11 w-full flex-wrap justify-start gap-1 p-1.5 md:h-9 md:min-h-0 md:flex-nowrap md:p-[3px]">
+          <TabsList className="h-11 w-full flex-nowrap justify-start overflow-x-auto p-1.5 no-scrollbar md:h-9 md:p-[3px]">
             {FILTERS.map(({ key, label }) => (
               <TabsTrigger key={key} value={key} className="shrink-0 px-3">
                 {label}
